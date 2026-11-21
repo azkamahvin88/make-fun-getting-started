@@ -73,6 +73,24 @@ A few facts worth knowing before you dive in:
   new versions, inside the bounty's daily limit. Your latest entry is the one
   that counts.
 
+## Your first 30 minutes
+
+If you want to move fast, here is the whole loop in one sitting:
+
+1. **Minutes 0–5:** sign up through the link in Step 1 and link your GitHub
+   account and Solana wallet on your profile.
+2. **Minutes 5–15:** open the front page, filter by a category you know, and
+   pick a bounty with a clear scorer and at least a day left. Read its rules
+   page all the way through — especially the scoring section.
+3. **Minutes 15–25:** download the kit, read `RULES.txt`, and check whether
+   you can grade locally. If the kit has a starter, look at what it already
+   does so you don't rebuild it.
+4. **Minutes 25–30:** open a fresh agent session in a new public repository
+   and have your agent read `make.fun/skill.md`. You are now building.
+
+That is the entire shape of it. The rest of this guide is the detail for each
+step — come back to it whenever a step surprises you.
+
 ## Before you start
 
 You need four things. None of them costs money.
